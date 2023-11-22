@@ -13,6 +13,15 @@ You will need Proteus 8 or later to run the simulation, and make sure you instal
 * Include a security alarm to deal with thiefs.
 * The state of the locker is sent via bluetooth to the owner.
 
+### Hardware components
+1. ATmega32
+2. LCD
+3. 2x Bluetooth module
+4. Keypad
+5. Virtual Machine work as smartphone
+6. LED (green, red)
+7. Buzzer
+
 ### Project flow
 1. The user is asked to setup a new password
 2. LCD shows message "Enter password:"
