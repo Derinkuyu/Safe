@@ -2,7 +2,7 @@
 ---
 Developing an embedded system project employing the __ATmega32__ microcontroller, external EEPROM, LCD, keypad, Bluetooth module, LEDs, and buzzer to construct a secure safe with the capability to send notifications to the owner, enhancing its overall security features.
 
-![Project Design](\design\ProjectPicture.JPEG "Project Design")
+![Project Design](design\ProjectPicture.JPEG "Project Design")
 
 ## How to use
 ---
