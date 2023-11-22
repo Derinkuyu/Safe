@@ -8,10 +8,10 @@ You will need Proteus 8 or later to run the simulation, and make sure you instal
 
 ### Features
 1. Easy to use interface.
-* The ability to store a 4-digit pin.
-* The password is stored on the internal EEPROME of the MCU for extra security.
-* Include a security alarm to deal with thiefs.
-* The state of the locker is sent via bluetooth to the owner.
+2. The ability to store a 4-digit pin.
+3. The password is stored on the internal EEPROME of the MCU for extra security.
+4. Include a security alarm to deal with thiefs.
+5. The state of the locker is sent via bluetooth to the owner.
 
 ### Hardware components
 1. ATmega32
