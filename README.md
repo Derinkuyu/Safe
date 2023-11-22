@@ -7,7 +7,7 @@ Developing an embedded system project employing the __ATmega32__ microcontroller
 You will need Proteus 8 or later to run the simulation, and make sure you install a [bluetooth library](https://www.theengineeringprojects.com/2016/03/bluetooth-library-for-proteus.html) for Proteus as well as installing [Eltima virtual Serial Port](https://www.eltima.com/products/vspdxp/). Run the __Virtual Serial Port Driver__ and create a pair between 2 ports (COM1 and COM2 by default) then run the simulation in Proteus. You will be asked to set a password at first, then you can use all the functionalities of the safe.
 
 ### Features
-* Easy to use interface.
+1. Easy to use interface.
 * The ability to store a 4-digit pin.
 * The password is stored on the internal EEPROME of the MCU for extra security.
 * Include a security alarm to deal with thiefs.
